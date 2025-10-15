@@ -1,11 +1,10 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Yomal Kavindu</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yomalkavindu1&label=Profile%20views&color=0e75b6&style=flat" alt="yomalkavindu1" /> </p>
 
-- 🔭 I’m currently working on **Fitness App (BestFit)**
+- 🔭 I’m currently working on **Fitness App (BestFit) , E-Commerce web**
 
 - 🌱 I’m currently learning **UX/UI Designing , Frontend Development**
 
